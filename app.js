@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Salut les Grugrus !!
     </section>
   </body>
 </html>
